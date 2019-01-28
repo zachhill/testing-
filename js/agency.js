@@ -30,7 +30,7 @@
   var navbarCollapse = function() {
     if ($("#mainNav").offset().top > 100) {
       $("#mainNav").addClass("navbar-shrink");
-      $("#mainNav").style.backgroundColor = "black"; 
+      $("#mainNav").style.backgroundColor = black; 
     } else {
       $("#mainNav").removeClass("navbar-shrink");
     }
