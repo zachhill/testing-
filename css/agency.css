@@ -143,6 +143,12 @@ img::-moz-selection {
   color: #fed136;
 }
 
+.navbar-shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #212529;
+  }
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 25px;
@@ -160,7 +166,7 @@ img::-moz-selection {
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
   }
-  .navbar-shrink {
+  #mainNav .navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
     background-color: #212529;
