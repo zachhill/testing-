@@ -4,6 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+
+<style>
+.w3-tangerine {
+  font-family: 'Tangerine', serif;
+}
+</style>
+
 .logo {
     display: block;
   margin-left: auto;
